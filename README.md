@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagar
 
-A Fullstack Software Engineer Specialised in UX — building intelligent tools like [Sevense](#) and [GenVi](#).
+A Fullstack Software Engineer Specialised in UX building intelligent tools like [Sevense](#) and [GenVi](#).
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react)
