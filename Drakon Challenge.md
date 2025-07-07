@@ -1,8 +1,9 @@
 <h1 align="center">🐉 Drakon 10 — Solo SaaS Challenge</h1>
 
-<p align="center">
-  <img src="https://github.com/yourusername/yourrepo/blob/main/banner.png" alt="Drakon Dev Banner" width="90%"/>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+ruthless+B2B+MVPs+in+public..." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <b>One Developer. 10 Real MVPs. 100 Days. Zero Excuses.</b><br>
