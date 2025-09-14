@@ -8,9 +8,13 @@
 
 ## 👋 Hey, I’m Sagar
 
-I’m an **S-Tier Fullstack Software Engineer** with a sharp focus on **UX-centric product design**. I help brands build **failproof digital systems** that users love and businesses trust.
+I’m an **S-Tier Fullstack Software Engineer** with a deep focus on **UX-driven product design**.  
+I build **reliable digital systems** that balance user experience with enterprise-grade trust.  
 
-Well-specialized in **fintech**, I've delivered enterprise-level platforms like an **NPA (Non-Performing Asset) management dashboard** used by banks in India.
+My strongest track record is in **fintech and Web3**, where I’ve delivered:  
+- Enterprise banking dashboards for **risk & NPA (Non-Performing Asset) management**  
+- **CrediSense** – a Web3 credit scoring platform built on auditability and transparency  
+- **InvoicelyPro, Loadix, Atmo, Ledgerfy** – experiments in blockchain-based finance, logistics, carbon credits, and compliance  
 
 ---
 
