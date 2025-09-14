@@ -63,22 +63,43 @@ Well-specialized in **fintech**, I've delivered enterprise-level platforms like 
 
 ## 🚀 Current Focus
 
-### 🔹 [**Sevense**](https://github.com/sagarsreekumar/sevense)  
+### 🔹 **Sevense** 
 > ⚙️ A fintech platform that helps banks reduce NPLs using borrower risk alerts & modern analytics dashboards.  
-> **Stack:** Next.js · ShadCN UI · Recharts · Express · MongoDB
+> **Stack:** Next.js · ShadCN UI · Recharts · Express · MongoDB  
+
+### 🔹 **CrediSense**  
+> 🔗 A Web3 + AI extension of Sevense, focused on credit scoring accuracy, auditability, and transparency.  
+
+### 🔹 **InvoicelyPro**  
+> 💸 Invoicing with wallet-based payments (USDC) & on-chain proof of record.  
+
+### 🔹 **Loadix**  
+> 📦 Tokenized logistics tracking & verification system.  
+
+### 🔹 **Atmo**  
+> 🌍 Decentralized carbon credit tracking prototype.  
+
+### 🔹 **Ledgerfy**  
+> 📑 Smart contract–driven compliance and transaction records.  
 
 ---
 
 ## 🔐 Notable Work
 
-> Some of my strongest contributions are in **private/enterprise systems**, including:
+> Some of my strongest contributions are in **private/enterprise systems** and recent **Web3/fintech experiments**, including:
 
-- 🏦 Dashboard systems for banks (India)  
-- 🔄 Automation of CI/CD pipelines for internal tools  
-- 📊 Data-heavy interfaces redesigned for clarity & conversion  
-- 🔒 Fintech API integrations for risk management workflows
+- 🏦 Banking dashboards (India) — borrower monitoring, risk scoring, and compliance analytics  
+- 🔄 Automation of CI/CD pipelines for internal platforms  
+- 📊 Redesigns of complex data-heavy interfaces for clarity & adoption  
+- 🔒 Fintech API integrations for risk and compliance workflows  
+- 🔗 **CrediSense** — applied blockchain to credit scoring transparency & audit trails  
+- 💸 **InvoicelyPro** — built wallet-based payment flow with on-chain invoice proof  
+- 📦 **Loadix** — designed tokenized logistics tracking for supply chain visibility  
+- 🌍 **Atmo** — prototyped decentralized carbon credit tracking and validation  
+- 📑 **Ledgerfy** — smart contract–based compliance and transaction logging  
 
 ---
+
 
 ## 🌐 Let’s Connect
 
