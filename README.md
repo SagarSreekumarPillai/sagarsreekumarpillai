@@ -81,7 +81,7 @@ My strongest track record is in **fintech and Web3**, where I’ve delivered:
 > 📦 Tokenized logistics tracking & verification system.  
 
 ### 🔹 **Atmo**  
-> 🌍 Decentralized carbon credit tracking prototype.  
+> 🌍 Decentralized carbon credit tracking prototype for NASA
 
 ### 🔹 **Ledgerfy**  
 > 📑 Smart contract–driven compliance and transaction records.  
