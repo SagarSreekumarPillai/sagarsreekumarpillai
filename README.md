@@ -8,7 +8,7 @@
 
 ## 👋 Hey, I’m Sagar
 
-I’m a **Fullstack Software Engineer** with a sharp focus on **UX-centric product design**. I help brands build **failproof digital systems** that users love and businesses trust.
+I’m an **S-Tier Fullstack Software Engineer** with a sharp focus on **UX-centric product design**. I help brands build **failproof digital systems** that users love and businesses trust.
 
 Well-specialized in **fintech**, I've delivered enterprise-level platforms like an **NPA (Non-Performing Asset) management dashboard** used by banks in India.
 
