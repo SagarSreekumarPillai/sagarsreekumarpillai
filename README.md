@@ -13,7 +13,7 @@ I build **reliable digital systems** that balance user experience with enterpris
 
 My strongest track record is in **fintech and Web3**, where I’ve delivered:  
 - Enterprise banking dashboards for **risk & NPA (Non-Performing Asset) management**  
-- **CrediSense** – a Web3 credit scoring platform built on auditability and transparency  
+- **CrediSense** - a Web3 credit scoring platform built on auditability and transparency  
 - **InvoicelyPro, Loadix, Atmo, Ledgerfy** – experiments in blockchain-based finance, logistics, carbon credits, and compliance  
 
 ---
